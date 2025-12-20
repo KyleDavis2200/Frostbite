@@ -19,6 +19,9 @@ Frostbite is a 1lb plastic antweight combat robot that focuses on being wide wit
 
 # Wiring Diagram
 
+<img width="1105" height="819" alt="image" src="https://github.com/user-attachments/assets/119fa8ba-d8d2-4a23-bc9f-8fdfe18f1699" />
+
+
 # Bill of Materials
 
 
