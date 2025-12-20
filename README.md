@@ -1,7 +1,26 @@
 # Frostbite
 Frostbite is a 1lb plastic antweight combat robot that focuses on being wide with a large weapon. Frostbite is meant to resemble my 15lb bot Subzero, but scaled down and simpler.
+<img width="741" height="506" alt="image" src="https://github.com/user-attachments/assets/40655405-de2b-4056-b496-4cc42d6447fd" />
+
+# Features
+
+* Frostbite features a directly driven 88 gram PLA+ weapon on a Repeat 2822 weapon motor, powered by a BlHeliS ESC.
+* Frostbite uses a tangent drive system for high speed and maneuverability, while saving space and weight.
+* Frostbite's frame uses as few parts as possible and the entire bot can be printed in one print to maximize durability, simplicity, and ease of printing and assemvbling. 
+
+# Images
+<img width="765" height="408" alt="image" src="https://github.com/user-attachments/assets/87d3499d-bfa3-4844-8849-5869a39a19ad" />
+<img width="460" height="344" alt="image" src="https://github.com/user-attachments/assets/37ff9d2f-b167-44d7-9f5c-92b35c154330" />
+<img width="752" height="473" alt="image" src="https://github.com/user-attachments/assets/ae148169-7919-4a2e-8b47-dbd926655a46" />
+<img width="807" height="464" alt="image" src="https://github.com/user-attachments/assets/a8f53161-5713-458e-8337-e27f3bccee11" />
+<img width="439" height="545" alt="image" src="https://github.com/user-attachments/assets/77473db5-c95b-4e05-93ed-9fb1ac668303" />
+<img width="601" height="518" alt="image" src="https://github.com/user-attachments/assets/039960f1-6e12-46c1-a196-7244afe1bfb7" />
+
+
+# Wiring Diagram
 
 # Bill of Materials
+
 
 |Item                         |Individual Cost|Quantity       |Total Cost (Includes shipping)|Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |Notes                                                                                                  |
 |-----------------------------|---------------|---------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
