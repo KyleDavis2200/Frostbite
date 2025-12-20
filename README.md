@@ -6,7 +6,7 @@ Frostbite is a 1lb plastic antweight combat robot that focuses on being wide wit
 
 * Frostbite features a directly driven 88 gram PLA+ weapon on a Repeat 2822 weapon motor, powered by a BlHeliS ESC.
 * Frostbite uses a tangent drive system for high speed and maneuverability, while saving space and weight.
-* Frostbite's frame uses as few parts as possible and the entire bot can be printed in one print to maximize durability, simplicity, and ease of printing and assemvbling. 
+* Frostbite's frame uses as few parts as possible and the entire bot can be printed in one print to maximize durability, simplicity, and ease of printing and assembly. 
 
 # Images
 <img width="765" height="408" alt="image" src="https://github.com/user-attachments/assets/87d3499d-bfa3-4844-8849-5869a39a19ad" />
